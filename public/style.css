@@ -1,0 +1,35 @@
+.bowl-table {
+	width: '300px';
+	border: '1px solid black';
+}
+.bowl-table td {
+	border: 1px solid black;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	height: 40px;
+	width: 40px;
+}
+.bowl-table td:hover {
+	background-color: lavender;
+}
+.score-board {
+	width: 800px;
+	border: 1px solid black;
+}
+.score-board th {
+	border: 1px solid black;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	height: 40px;
+	width: 40px;
+}
+.score-board td {
+	border: 1px solid black;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	height: 40px;
+	width: 40px;
+}
